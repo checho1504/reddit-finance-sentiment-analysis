@@ -25,7 +25,7 @@ The subreddits included were:
 
 `wallstreetbets` `investing` `stocks` `StockMarket` `SecurityAnalysis` `ValueInvesting` `dividends` `options` `Daytrading` `pennystocks`
 
-These feeds captured a mix of recent discussions and highly engaged posts. After collection, the posts were filtered to include activity from January 2025 through May 2026. For the stock market portion of the analysis, OHLCV price data was pulled from Stooq for the five tickers mentioned most often in the Reddit posts.
+These feeds included a mix of recent conversations and posts that had received strong engagement. After collecting the data, I filtered the posts to focus on activity from January 2025 through May 2026. For the stock market analysis, I pulled OHLCV price data from Stooq for the five tickers that appeared most often in the Reddit posts. After removing duplicates, bots, and deleted accounts, the final dataset included 13,218 posts from the 10 subreddits.
 
 
 ---
