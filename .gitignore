@@ -1,0 +1,20 @@
+# Data files
+finance_reddit_posts.csv
+posts_clean.csv
+*.csv
+
+# Stock data
+stock_data/
+*_us.csv
+
+# Parquet files
+*.parquet
+
+# Jupyter temp files
+.ipynb_checkpoints/
+
+# Windows junk
+desktop.ini
+
+# Python temp files
+tempCodeRunnerFile.py
